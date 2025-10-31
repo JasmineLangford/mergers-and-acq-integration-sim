@@ -10,14 +10,10 @@ Built for the intersection of AI, data science, and corporate strategy, this pro
 
 ⚙️ **Features**
 
-• AI-Powered Integration Simulation␣␣
-Predicts how well a target company aligns with your organization across multiple dimensions — from IT stack compatibility to culture fit.
+• AI-Powered Integration Simulation: Predicts how well a target company aligns with your organization across multiple dimensions — from IT stack compatibility to culture fit.
 
-• Agentic Decision Engine␣␣
-Uses large language models (LLMs) to reason through potential integration paths, generate narratives, and recommend next steps.
+• Agentic Decision Engine: Uses large language models (LLMs) to reason through potential integration paths, generate narratives, and recommend next steps.
 
-• Human-in-the-Loop Validation␣␣
-Enables analysts or decision-makers to review and refine AI predictions, ensuring accuracy and accountability.
+• Human-in-the-Loop Validation: Enables M&A teams or decision-makers to review and refine AI predictions, ensuring accuracy and accountability.
 
-• Explainable AI Insights␣␣
-Provides transparency into why the AI made its predictions, helping users understand key drivers behind compatibility scores.
+• Explainable AI Insights: Provides transparency into why the AI made its predictions, helping users understand key drivers behind compatibility scores.
