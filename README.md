@@ -1,4 +1,4 @@
-# M&A Integration Simulator: Human-AI Collaboration for Smarter Due Diligence
+# Human-in-the-Loop AI Simulator for Mergers & Acquisitions (M&A) Integration Scenarios
 
 🧠 **Overview**
 
